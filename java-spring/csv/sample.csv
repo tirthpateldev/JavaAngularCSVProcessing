@@ -1,0 +1,4 @@
+Property name,Property ID,Room name,Room ID,Booking ID,Booking source,Booking Check in date,Booking Check out date,Booking amount,Booking tax amount,Booking additional fees amount,Guest name,Guest address,Guest email address,Guest credit card number,Guest credit card expiration date,Guest credit card ccv number
+Hotel X,123,Single Bedroom Room,321,343434,Booking.com,2019-05-24,2019-05-29,260,26,50,John Smith,123 main street,jsmith@fakeemail.com,4242424242424242,,123
+Hotel X,123,Single Bedroom Room,321,343435,Booking.com,2019-05-24,2019-05-29,260,26,50,John Smith,123 main street,jsmith@fakeemail.com,4242424242424244,,123
+Hotel X,123,Single Bedroom Room,321,343436,Booking.com,2019-05-24,2019-05-29,260,26,50,John Smith,123 main street,jsmith@fakeemail.com,4242424242424242,,123

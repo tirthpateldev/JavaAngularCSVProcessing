@@ -1,0 +1,8 @@
+logging:
+  level:
+    org.springframework: DEBUG
+    com.mkyong: DEBUG
+
+processedFrom: /Users/jaypatel/Downloads/gs-spring-boot-master/complete/csv
+  
+thread-pool: 10
